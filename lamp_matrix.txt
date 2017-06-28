@@ -1,0 +1,65 @@
+1    Bank Heist (Captive Ball) L#44
+2    Two of Hearts 2♥ L#555
+3    Three of Hearts 3♥ L#555
+4    Four of Hearts 4♥ L#555
+5    Five of Hearts 5♥ L#555
+6    Six of Hearts 6♥ L#555
+7    Jack of Spades J♠ ('21') L#44
+8    Raise/Fold L#44
+9    Shoot Again L#44
+10   Lock #3 (Joker) L#555
+11   Special L#44
+12   Jackpot (Right Ramp Enter Right) L#555
+14   Spot Card (Left) L#44
+15   Spot Card (Right) L#44
+16   1 (One) Pair L#555
+17   21 When Lit L#44
+18   Poker Championship L#555
+19   Lock #2 (Joker) L#555
+20   Coop's Cash L#555
+21   Lauren Belle L#555
+22   Bank Heist L#555
+23   Angel's Revenge L#555
+24   Stage Coach L#555
+25   (Left) Turbo Bumper
+26   (Center) Turbo Bumper
+27   (Right) Turbo Bumper
+28   Lock #1 (Joker) L#555
+29   5 Mil (1) Left L#555
+30   5 Mil (2) Middle Left L#555
+31   5 Mil (3) Middle Right L#555
+32   5 Mil (4) Right L#555
+33   Skill Shot #1 (Bottom) L#555
+34   Skill Shot #2 (Center) L#555
+35   Skill Shot #3 (Top) L#555
+37A  Ten of Clubs 10♣ L#555
+37B  Ten of Diamonds 10♦ L#555
+38   Extra Ball L#44
+39   $ (Right Orbit) (#4) L#555
+40   $ (Ramp Enter) (#3) L#555
+41   Top Lane 1♣  L#44
+42   Top Lane 2♦ L#44
+43   Top Lane 3♠ L#44
+44   Top Lane 4♥ L#44
+45   Ace of Spades A♠ L#555
+46A  Ten of Spades 10♠ L#555
+46B  Ten of Hearts 10♥ L#555
+47   $ (VUK) (#2) L#44
+48   $ (Left Orbit) (#1) L#44
+49   Ramp Joker #1 (Bottom) L#906 L#555
+50   Ramp Joker #2 (Middle) L#906 L#555
+51   Ramp Joker #3 (Top) L#906 L#555
+52   Stagecoach (Right Ramp Enter Left) L#555
+53   Seven of Clubs 7♣ L#555
+54   Seven of Diamonds 7♦ L#555
+55A  Six of Clubs 6♣ L#555
+55B  Six of Diamonds 6♦ L#555
+56   Seven of Hearts 7♥ L#555
+57   4-of-a-Kind L#44
+58   3-of-a-Kind L#44
+59   Straight L#44
+60   Royal Flush L#44
+61   Two of Diamonds 2♦ (Stand-Up Right) L#555
+62   Two of Clubs 2♣ (Stand-Up Left) L#555
+63   Extra Ball Button (Front of Cabinet)
+64   Start Button (Front of Cabinet)

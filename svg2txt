@@ -1,0 +1,25 @@
+#!/usr/bin/python3
+import re
+from XMLParser import XMLParser
+svg = XMLParser().parsefile("lamp_matrix.svg")
+
+lamps = [ ]
+for node in svg.walk():
+	if node.getchild("title"):
+		title = node.title.getcdata()
+		if node.getchild("desc") is not None:
+			desc = node.desc.getcdata()
+		else:
+			desc = None
+		lamps.append((title, desc))
+
+
+int_re = re.compile("(?P<intvalue>\d+)(?P<remainder>.*)")
+def intkey(value):
+	result = int_re.match(value)
+	result = result.groupdict()
+	return (int(result["intvalue"]), result["remainder"])
+
+lamps.sort(key = lambda x: intkey(x[0]))
+for (lamp_no, text) in lamps:
+	print("%-4s %s" % (lamp_no, text))
